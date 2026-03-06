@@ -6,7 +6,8 @@
 
 | Item | Details | Notes |
 |------|---------|-------|
-|      |         |       |
+| Shopping | She very much loves it | |
+| Watching Tutorials | Loves learning and watching educational content | |
 
 ## Notes
 - 

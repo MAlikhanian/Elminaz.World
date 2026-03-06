@@ -21,7 +21,7 @@
 | **Birthday** | |
 | **Favorite Quote** | *" "* |
 
-> *Write a short description about Elminaz here...*
+> She loves **software development**, **artificial intelligence**, **data science**, and all things **IT**.
 
 ---
 

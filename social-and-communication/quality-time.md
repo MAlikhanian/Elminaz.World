@@ -6,7 +6,9 @@
 
 | Activity | Details | Notes |
 |----------|---------|-------|
-|          |         |       |
+| Facebook | Active | |
+| Instagram | Active | |
+| LinkedIn | Active | |
 
 ## Notes
 - 
