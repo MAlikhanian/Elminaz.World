@@ -6,7 +6,7 @@
 
 | Item | Details | Notes |
 |------|---------|-------|
-|      |         |       |
+| Traveling | One of her favorite hobbies | |
 
 ## Notes
 - 

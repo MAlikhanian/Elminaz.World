@@ -6,7 +6,7 @@
 
 | Item | Details | Notes |
 |------|---------|-------|
-|      |         |       |
+| Eggplant | Doesn't like it | |
 
 ## Notes
 - 

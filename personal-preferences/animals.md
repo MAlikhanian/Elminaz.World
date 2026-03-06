@@ -6,7 +6,7 @@
 
 | Item | Details | Notes |
 |------|---------|-------|
-|      |         |       |
+| Cats | Loves cats | |
 
 ## Notes
 - 
